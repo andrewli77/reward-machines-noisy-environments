@@ -1,0 +1,6 @@
+minigrid==2.3.1
+torch==2.1.1
+numpy==1.26.3
+mujoco-py==2.1.2.14
+gymnasium==0.29.1
+glfw==2.5.6
