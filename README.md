@@ -4,7 +4,7 @@
 
 We provide a framework for Reward Machines (or similar formal task specifications like Linear Temporal Logic) when the propositions cannot be perfectly evaluated. 
 
-This is applicable to settings where propositional evaluations are uncertain due to partially observability, noisy sensors, classification error, and so on. The methods used are described in our accompanying paper (arxiv: https://arxiv.org/abs/2406.00120). 
+This is applicable to settings where propositional evaluations are uncertain due to partially observability, noisy sensors, classification error, and so on. The methods used are described in our accompanying paper (arxiv: https://arxiv.org/abs/2406.00120). See [videos/](videos/) to watch some replays of the agents. 
 
 ## Environments
 We provide a lightweight [toy environment](toy_experiments/) along with a deep RL framework for larger environments. We include MiniGrid and MuJoCo environments as example problems and our framework is easily extensible to other environments. 
